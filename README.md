@@ -3,7 +3,7 @@ Autorzy, nr albumu:
 - Jarosław Kolanowski  |  29361
 - Sara Dolata          |  29430
 - Dawid Liberski       |  29456
-- Jakub Maciej Kubik   | 
+- Jakub Maciej Kubik   |  29425
 
 Informatyka, inżynierskie, niestacjonarne, III semestr.
 
