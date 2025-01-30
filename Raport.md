@@ -1,4 +1,5 @@
-Wprowadzenie
+Wprowadzenie  
+
 Celem projektu było stworzenie modelu klasyfikacyjnego, który przewiduje diagnozę chorób na podstawie symptomów. Zastosowano podejście uczenia maszynowego, wykorzystując różne modele klasyfikacyjne, takie jak Random Forest, Support Vector Machine (SVM) oraz Gradient Boosting. Projekt obejmował także przetwarzanie danych, w tym normalizację tekstu, usuwanie zbędnych cech, a także wizualizację zależności między symptomami a chorobami.
 
 1️⃣ Importowanie bibliotek
