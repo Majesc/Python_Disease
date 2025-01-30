@@ -79,7 +79,7 @@ test_prediction_shape: Weryfikuje, czy liczba predykcji zgadza się z liczbą pr
 test_accuracy_threshold: Sprawdza, czy dokładność modelu na zbiorze testowym przekracza 70%.
 Testy jednostkowe pomagają upewnić się, że proces trenowania, predykcji i oceny modelu działa zgodnie z oczekiwaniami.
 
-🔟 Wykonanie kodu  
+1️⃣1️⃣ Wykonanie kodu  
 Oto pełny przepływ pracy w projekcie:
 
 Wczytanie danych: Załadowanie danych treningowych i testowych.
